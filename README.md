@@ -1,5 +1,6 @@
 # docker-debian-10 🐳
-Debian 10 Docker install guide 
+Debian 10 Docker install guide.
+Perform the steps one after the other
 
 ----
 
